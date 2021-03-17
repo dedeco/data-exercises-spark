@@ -46,7 +46,7 @@ Para outros desafios vamos usar esses datasets:
 
 Você irá dar um [fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) nesse repositório na sua máquina. Depois você irá [clonar o seu repositório](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) na sua conta do github e ao terminar commitar as alterações no notebook e subir, ou seja [dar um push](https://docs.github.com/pt/github/using-git/pushing-commits-to-a-remote-repository).
 
-E então abrir (um pull request)[https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request] para revisarmos as respostas
+E então abrir [um pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) para revisarmos as respostas
 
 ## Exercício 1
 
