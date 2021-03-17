@@ -53,5 +53,8 @@ E então abrir (um pull request)[https://docs.github.com/en/github/collaborating
 Na pasta /data tem uma pequena amostra do dataset para exploração do primeiro exercício. Na pasta exerc01 tem o notebook no qual vc deverá responder no próprio notebook as respostas esperadas para cada pergunta.
 
 
+# Agradecimento
+Obrigado a Udacity pelo uso e compartilhamento do DATASET.
+
 
 
