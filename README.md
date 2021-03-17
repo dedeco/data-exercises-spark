@@ -3,7 +3,7 @@
 
 Uma startup de streaming de música, Sparkify, aumentou sua base de usuários e banco de dados de músicas ainda mais e deseja mover seu data warehouse para um data lake. Seus dados residem no S3, em um diretório de logs JSON na atividade do usuário no aplicativo, bem como em um diretório com metadados JSON nas músicas em seu aplicativo.
 
-#Project Datasets
+## Datasets
 
 Você trabalhará com dois conjuntos de dados que residem no S3. Aqui estão os links S3 para cada: 
 
